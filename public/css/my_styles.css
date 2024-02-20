@@ -1,0 +1,18 @@
+/*2 This is where we declare our EXTERNAL CSS. In order to connect to the main Ruby file... SEARCH app/views/layouts/application.html.erb */
+
+.notice {
+  color: green;
+}
+
+.alert {
+  color: red;
+}
+
+.received {
+
+  background-color: lightgreen;
+}
+
+.waiting_on {
+  background-color: lightgoldenrodyellow;
+}
